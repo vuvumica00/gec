@@ -12,5 +12,6 @@
   },
   "bin": {
     "gec": "./bin/index.js"
-  }
+  },
+  "preferGlobal": true
 }
