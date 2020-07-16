@@ -1,0 +1,16 @@
+{
+  "name": "git-emoji-commit",
+  "description": "🌈 Git commits with fine grain emoji descriptions",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "bin": {
+    "gec": "bin/index.js"
+  }
+}
