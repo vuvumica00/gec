@@ -1,5 +1,7 @@
 # gec
 
+[![npm version](https://badge.fury.io/js/gec.svg)](https://www.npmjs.com/package/gec)
+
 🌈 Git commits with fine grain emoji descriptions
 
 This uses the [gitmoji](https://gitmoji.carloscuesta.me) emoji commit standard for describing code changes with emojis.
