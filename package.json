@@ -1,5 +1,5 @@
 {
-  "name": "git-emoji-commit",
+  "name": "gec",
   "description": "🌈 Git commits with fine grain emoji descriptions",
   "version": "0.0.1",
   "main": "index.js",
