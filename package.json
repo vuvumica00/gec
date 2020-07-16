@@ -15,8 +15,8 @@
     "gec": "./bin/index.js"
   },
   "preferGlobal": true,
-  "homepage": "https://github.com/albingroen/git-emoji-commit",
-  "repository": "https://github.com/albingroen/git-emoji-commit",
+  "homepage": "https://github.com/albingroen/gec",
+  "repository": "https://github.com/albingroen/gec",
   "keywords": [
     "emoji",
     "git",
