@@ -13,3 +13,5 @@ This uses the [gitmoji](https://gitmoji.carloscuesta.me) emoji commit standard f
     gec
 
 This will put you in a wizard where you get to choose a emoji to use and message to commit
+
+![gec product demo](https://res.cloudinary.com/albin-groen/image/upload/v1594931115/gec-demo_a1n9j0.gif)
