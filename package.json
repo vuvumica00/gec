@@ -11,6 +11,6 @@
     "prettier": "^2.0.5"
   },
   "bin": {
-    "gec": "bin/index.js"
+    "gec": "./bin/index.js"
   }
 }

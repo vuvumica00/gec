@@ -1,6 +1,8 @@
+#!/usr/bin/env node
+
 const { AutoComplete, prompt } = require("enquirer");
 const { exec } = require("child_process");
-const emojis = require("./emojis.json");
+const emojis = require("../emojis.json");
 
 async function main() {
   const select = new AutoComplete({
