@@ -6,7 +6,8 @@
   "main": "./bin/index.js",
   "license": "MIT",
   "dependencies": {
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
