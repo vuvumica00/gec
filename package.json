@@ -2,7 +2,7 @@
   "name": "gec",
   "description": "🌈 Git commits with fine grain emoji descriptions",
   "author": "albingroen",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "./bin/index.js",
   "license": "MIT",
   "dependencies": {
