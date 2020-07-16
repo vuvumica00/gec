@@ -86,4 +86,4 @@ A pretty git history that is readable on every system.
 - 🚩 - triangular-flag-on-post - Adding, updating, or removing feature flags"
 - 🥅 - goal-net - Catching errors"
 - 💫 - animation - Adding or updating animations and transitions"
-- 🗑 - :wastebasket: - Deprecating code that needs to be cleaned up
+- 🗑 - wastebasket - Deprecating code that needs to be cleaned up
