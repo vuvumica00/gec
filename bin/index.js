@@ -14,7 +14,7 @@ async function main() {
 
   const emojis = await getGitmojis().catch((err) => {
     console.log("\x1b[31m", "Failed to fetch gitmojis from the gitmoji api:");
-    console.error(new Error(err).message || '');
+    console.error(new Error(err).message || "");
   });
 
   if (!emojis) return;

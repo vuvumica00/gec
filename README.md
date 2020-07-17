@@ -1,6 +1,7 @@
 # gec
 
 [![npm version](https://badge.fury.io/js/gec.svg)](https://www.npmjs.com/package/gec)
+![npm](https://img.shields.io/npm/dw/gec)
 
 🌈 Git commits with fine grain emoji descriptions
 
