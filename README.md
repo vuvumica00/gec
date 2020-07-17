@@ -7,6 +7,12 @@
 
 This uses the [gitmoji](https://gitmoji.carloscuesta.me) emoji commit standard for describing code changes with emojis.
 
+## Table of Contents
+1. [Install](#Install)
+2. [Use](#Use)
+3. [Result](#Result)
+4. [Available emojis](#Available%20emojis)
+
 ## Install
 
     npm i -g gec
